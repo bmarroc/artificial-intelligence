@@ -1,6 +1,6 @@
 ## Artificial Intelligence
 
-This repository contains Jupyter notebooks implementing Artificial Intelligence algorithms to solve different problems. 
+This repository contains pure Python/Numpy scripts implementing Artificial Intelligence algorithms to solve different problems. 
 
 These notebooks use Python 3.6.9. 
 
