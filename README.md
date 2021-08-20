@@ -6,8 +6,8 @@ These notebooks use Python 3.6.9.
 
 ### Table of contents
 
-* [1 - Search Algorithms: solving 8-puzzles](https://github.com/bmarroc/artificial-intelligence/tree/main/1)
-* [2 - Adversarial Search and Games: solving 2048-puzzles](https://github.com/bmarroc/artificial-intelligence/tree/main/2)
-* [3 - Constraint Satisfaction Problems: solving Sudokus](https://github.com/bmarroc/artificial-intelligence/tree/main/3)
+* [1 - Search Algorithms: solving 8-puzzle](https://github.com/bmarroc/artificial-intelligence/tree/main/1)
+* [2 - Adversarial Search and Games: solving 2048-puzzle](https://github.com/bmarroc/artificial-intelligence/tree/main/2)
+* [3 - Constraint Satisfaction Problems: solving Sudoku](https://github.com/bmarroc/artificial-intelligence/tree/main/3)
 * [4 - Machine Learning: implementing Linear Regression and Logistic Regression](https://github.com/bmarroc/artificial-intelligence/tree/main/4)
 * [5 - Deep Learning: implementing Neural Networks, Backpropagation and Gradient Descent](https://github.com/bmarroc/artificial-intelligence/tree/main/5)
