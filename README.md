@@ -2,7 +2,7 @@
 
 This repository contains pure Python/Numpy scripts implementing Artificial Intelligence algorithms to solve different problems. 
 
-The notebooks use Python 3.6.9. 
+The scripts use Python 3.6.9. 
 
 ### Table of contents
 
